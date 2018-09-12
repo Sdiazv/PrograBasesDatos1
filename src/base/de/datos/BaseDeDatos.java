@@ -10,7 +10,7 @@ package base.de.datos;
  * @author Stephanie
  */
 public class BaseDeDatos {
-
+/*hola prueba
     /**
      * @param args the command line arguments
      */
